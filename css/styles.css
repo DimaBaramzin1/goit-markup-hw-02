@@ -1,0 +1,158 @@
+*{
+    width: 1440px;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+.logo{
+    width: 115px;
+    height: 24px;
+}
+
+nav[class="nav1"]{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+}
+
+a[class="a1"]{
+    text-decoration: none;
+    color: #2E2F42;
+}
+
+.email{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.phone{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.section1{
+    height: 600px;
+    width: 1440px;
+    background-color: #2E2F42;
+    align-items: center;
+}
+
+h1[class=h1]{
+    color: white;
+    text-align: center;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;
+    width: 496px;
+    height: 120px;
+    padding-top: 188px;
+}
+
+button[class="button1"]{
+    background-color: #4D5AE5;
+    color: white;
+    width: 169px;
+    height: 56px;
+    display: flex;
+    align-items: center;
+    border-radius: 4px;
+    padding-left: 40px;
+}
+
+.section2-h3{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+}
+
+.section2-p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+}
+
+.section3-h2{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+}
+
+img[class=img1]{
+    width: 360px;
+    height: 360px;
+}
+
+img[class=img2]{
+    height: 360px;
+    width: 360px;
+}
+
+img[class=img3]{
+    height: 360px;
+    width: 360px;
+}
+
+.section4{
+    background-color: #F4F4FD;
+}
+
+.image1{
+    width: 264px;
+    height: 260px;
+}
+
+.image2{
+    width: 264px;
+    height: 260px;
+}
+
+.image3 {
+    width: 264px;
+    height: 260px;
+}
+
+.image4{
+    width: 264px;
+    height: 260px;
+}
+
+.section4-p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.section4-h3{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.footer{
+    background-color:#2E2F42;
+    width: 1440px;
+    height: 312px;
+}
+
+.logo2{
+    width: 115px;
+    height: 24px;
+}
+
+.footer-p{
+    color: #F4F4FD;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+
