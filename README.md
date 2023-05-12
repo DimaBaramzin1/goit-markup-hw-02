@@ -1,3 +1,1 @@
-# First Website
-
-- Hope, you will enjoy
+*Second Homework
