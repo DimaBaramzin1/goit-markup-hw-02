@@ -16,6 +16,14 @@ nav[class="nav1"]{
     letter-spacing: 0.02em;
 }
 
+header .nav1 ul a:hover {
+    font-size: 600;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #404BBF;
+}
+
 a[class="a1"]{
     text-decoration: none;
     color: #2E2F42;
@@ -150,6 +158,129 @@ img[class=img3]{
 }
 
 .footer-p{
+    color: #F4F4FD;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+/*-----------------------------------------------*/
+
+.portfolio-logo1{
+    width: 115px;
+    height: 24px;   
+}
+
+.portfolio-button1{
+    width: 69px;
+    height: 48px;
+    color: white;
+    border-radius: 4px;
+    background-color: #404BBF;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.portfolio-button2{
+    width: 116px;
+    height: 48px;
+    color: #4D5AE5;
+    border-radius: 4px;
+    background-color: #E7E9FC;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.portfolio-button3{
+    width: 78px;
+    height: 48px;
+    color: #4D5AE5;
+    border-radius: 4px;
+    background-color: #E7E9FC;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.portfolio-button4{
+    width: 101px;
+    height: 48px;
+    color: #4D5AE5;
+    border-radius: 4px;
+    background-color: #E7E9FC;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.portfolio-button5{
+    width: 126px;
+    height: 48px;
+    color: #4D5AE5;
+    border-radius: 4px;
+    background-color: #E7E9FC;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+
+.portfolio-button2:hover{
+    background-color: #404BBF;
+    color: white;
+}
+
+.portfolio-button3:hover {
+    background-color: #404BBF;
+    color: white;
+}
+
+.portfolio-button4:hover {
+    background-color: #404BBF;
+    color: white;
+}
+
+.portfolio-button5:hover {
+    background-color: #404BBF;
+    color: white;
+}
+
+.row1{
+    width: 360px;
+    height: 300px;
+}
+
+.row2{
+    width: 360px;
+    height: 300px;
+}
+
+.row3{
+    width: 360px;
+    height: 300px;
+}
+
+.portfolio-footer{
+    background-color: #2E2F42;
+    height: 312px;
+    width: 1440px;
+}
+
+.portfolio-row-h3{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.portfolio-row-p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.portfolio-footer-p{
     color: #F4F4FD;
     font-weight: 400;
     font-size: 16px;
